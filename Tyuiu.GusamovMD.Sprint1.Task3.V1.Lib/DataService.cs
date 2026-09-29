@@ -5,7 +5,7 @@ namespace Tyuiu.GusamovMD.Sprint1.Task3.V1.Lib
     {
         public double CylinderVolume(double r, double h)
         {
-            double Pi = 3.141;
+            double Pi = 3.1415;
             return r * r * h * Pi;
         }
     }
