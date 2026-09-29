@@ -5,7 +5,7 @@ namespace Tyuiu.GusamovMD.Sprint1.Task2.V24.Lib
     {
         public int CalculateDiffSquare(int value, int valueTwo)
         {
-            return value * valueTwo;
+            return valueTwo + value;
         }
     }
 }

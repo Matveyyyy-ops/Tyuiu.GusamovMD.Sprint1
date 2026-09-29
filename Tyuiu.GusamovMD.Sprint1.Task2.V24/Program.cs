@@ -18,7 +18,7 @@ namespace Tyuiu.GusamovMD.Sprint1.Task2.V24
             int y;
 
             Console.WriteLine("Введите значение Y:");
-            
+            y = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ                                                               *");
