@@ -5,8 +5,8 @@ namespace Tyuiu.GusamovMD.Sprint1.Task4.V18.Lib
     {
         public double Calculate(double x, double y)
         {
-            var res = Math.Sqrt(3 + x) / Math.Pow(x * y, 2);
-            return res;
+            double res = Math.Sqrt(3 + x) / Math.Pow(x * y, 2);
+            return Math.Round(res, 3);
         }
     }
-}   
+}
