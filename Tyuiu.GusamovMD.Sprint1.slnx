@@ -25,8 +25,8 @@
     <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V18/Tyuiu.GusamovMD.Sprint1.Task4.V18.csproj" Id="06c3bfba-77d8-4514-8499-156a905cbc8b" />
   </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2.Lib/Tyuiu.GusamovMD.Sprint1.Task4.V2.Lib.csproj" Id="80e84e83-7f47-4efe-b651-142a507cbe1d" />
-    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2.Test/Tyuiu.GusamovMD.Sprint1.Task4.V2.Test.csproj" Id="5d6cfda4-cf1d-4b76-a2ab-1d88cc4b53b6" />
-    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2/Tyuiu.GusamovMD.Sprint1.Task4.V2.csproj" Id="9b01ca0a-45e0-418c-83e4-d29417b3f397" />
+    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2.Lib/Tyuiu.GusamovMD.Sprint1.Task5.V2.Lib.csproj" Id="80e84e83-7f47-4efe-b651-142a507cbe1d" />
+    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2.Test/Tyuiu.GusamovMD.Sprint1.Task5.V2.Test.csproj" Id="5d6cfda4-cf1d-4b76-a2ab-1d88cc4b53b6" />
+    <Project Path="Tyuiu.GusamovMD.Sprint1.Task4.V2/Tyuiu.GusamovMD.Sprint1.Task5.V2.csproj" Id="9b01ca0a-45e0-418c-83e4-d29417b3f397" />
   </Folder>
 </Solution>

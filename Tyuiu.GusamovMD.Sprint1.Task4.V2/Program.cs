@@ -1,5 +1,5 @@
-﻿using Tyuiu.GusamovMD.Sprint1.Task4.V2.Lib;
-namespace Tyuiu.GusamovMD.Sprint1.Task4.V2
+﻿using Tyuiu.GusamovMD.Sprint1.Task5.V2.Lib;
+namespace Tyuiu.GusamovMD.Sprint1.Task5.V2
 {
     internal class Program
     {
