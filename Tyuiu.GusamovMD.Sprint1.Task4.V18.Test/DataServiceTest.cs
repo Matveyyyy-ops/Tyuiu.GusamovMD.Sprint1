@@ -16,4 +16,3 @@ namespace Tyuiu.GusamovMD.Sprint1.Task4.V18.Test
 
         }
     }
-}
